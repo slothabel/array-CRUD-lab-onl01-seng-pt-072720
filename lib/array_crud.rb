@@ -11,8 +11,7 @@ array << element
 end
 
 def add_element_to_start_of_array(array, element)
-array.unshift("element")
-puts array.inspect
+array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
